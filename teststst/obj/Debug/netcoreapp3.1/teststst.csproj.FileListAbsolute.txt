@@ -1,0 +1,13 @@
+/Users/jacobphipps/Projects/teststst/teststst/bin/Debug/netcoreapp3.1/teststst.deps.json
+/Users/jacobphipps/Projects/teststst/teststst/bin/Debug/netcoreapp3.1/teststst.runtimeconfig.json
+/Users/jacobphipps/Projects/teststst/teststst/bin/Debug/netcoreapp3.1/teststst.runtimeconfig.dev.json
+/Users/jacobphipps/Projects/teststst/teststst/bin/Debug/netcoreapp3.1/teststst.dll
+/Users/jacobphipps/Projects/teststst/teststst/bin/Debug/netcoreapp3.1/teststst.pdb
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.csproj.AssemblyReference.cache
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.AssemblyInfoInputs.cache
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.AssemblyInfo.cs
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.csproj.CoreCompileInputs.cache
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.dll
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.pdb
+/Users/jacobphipps/Projects/teststst/teststst/obj/Debug/netcoreapp3.1/teststst.genruntimeconfig.cache
