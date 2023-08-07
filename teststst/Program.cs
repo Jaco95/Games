@@ -14,8 +14,8 @@ namespace _1._1._2
         static int secondsElapsed = 0;
         static double AStrong = 0;
         static double AHealth = 0;
-        static int secondsInDay = 60;
-        static int secondsInNight = 30;
+        static int secondsInDay = 200;
+        static int secondsInNight = 120;
         static bool mineOnceaday = true;
         static bool Sleeping = false;
         static bool returns = false;
@@ -253,7 +253,7 @@ namespace _1._1._2
                                             currentTries++;
                                             Console.ReadLine();
                                         }
-                                        else if (probability < 0.9 && Exsist)
+                                        else if (probability < 0.35 && Exsist)
                                         {
 
 
@@ -443,11 +443,11 @@ namespace _1._1._2
                                     {
                                         if (itemToSell == "ruby")
                                         {
-                                            moneyValue = 20000 * convertedAmountSold;
+                                            moneyValue = 150 * convertedAmountSold;
                                         }
                                         else if (itemToSell == "opal")
                                         {
-                                            moneyValue = 20000 * convertedAmountSold;
+                                            moneyValue = 80 * convertedAmountSold;
                                         }
                                         else if (itemToSell == "diamond")
                                         {
@@ -1389,7 +1389,7 @@ namespace _1._1._2
                     }
                     else
                     {
-                        meAttack = 500;
+                        meAttack = 20;
                         Console.WriteLine("You hit " + Monsterm + " with a whirling kick");
                     }
 
@@ -1832,7 +1832,7 @@ namespace _1._1._2
                     }
                     else
                     {
-                        meAttack = 500;
+                        meAttack = 35;
                         Console.WriteLine("You hit Zephros with a whirling kick");
                     }
 
