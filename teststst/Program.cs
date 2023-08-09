@@ -162,7 +162,7 @@ namespace _1._1._2
                                     double probability = random.NextDouble();
                                     if (secondStory)
                                     {
-                                        if (probability < 0.2)
+                                        if (probability < 0.15)
                                         {
                                             foundRuby = true;
                                             inventory.Add("ruby");
@@ -172,7 +172,7 @@ namespace _1._1._2
                                             currentTries++;
                                             Console.ReadLine();
                                         }
-                                        else if (probability < 0.5)
+                                        else if (probability < 0.40)
                                         {
                                             foundOpal = true;
                                             inventory.Add("opal");
@@ -182,7 +182,7 @@ namespace _1._1._2
                                             currentTries++;
                                             Console.ReadLine();
                                         }
-                                        else if (probability < 0.55 && Exsist)
+                                        else if (probability < 0.45 &&  Exsist)
                                         {
 
 
@@ -233,7 +233,7 @@ namespace _1._1._2
                                     {
 
 
-                                        if (probability < 0.1)
+                                        if (probability < 0.25)
                                         {
                                             foundRuby = true;
                                             inventory.Add("ruby");
@@ -243,7 +243,7 @@ namespace _1._1._2
                                             currentTries++;
                                             Console.ReadLine();
                                         }
-                                        else if (probability < 0.3)
+                                        else if (probability < 0.55)
                                         {
                                             foundOpal = true;
                                             inventory.Add("opal");
@@ -253,7 +253,7 @@ namespace _1._1._2
                                             currentTries++;
                                             Console.ReadLine();
                                         }
-                                        else if (probability < 0.35 && Exsist)
+                                        else if (probability < 0.60 &&  Exsist)
                                         {
 
 
